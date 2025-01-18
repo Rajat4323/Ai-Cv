@@ -5,7 +5,7 @@ AI-CV is a responsive web application built using ReactJS and Tailwind CSS, desi
 
 
 ### Live Demo
-✨ [Check out the AI-CV Live Site](https://ai-cv-rajat4323s-projects.vercel.app/)
+[Check out the AI-CV Live Site](https://ai-cv-rajat4323s-projects.vercel.app/)
 
 ---
 
