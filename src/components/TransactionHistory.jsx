@@ -8,12 +8,12 @@ const TransactionHistory = () => {
         <div className="text-gray-600 flex items-center ">
           <div className=" md:mb-14">
          <p className="font-semibold text-lg"> Hi, Username </p> 
-          <p className="text-blue-500 font-semibold text-sm ml-2 ">Credits Left: 300</p>
+          <p className="text-blue-500 font-semibold text-sm ml-1 ">Credits Left: 300</p>
           </div>
           <img
                 src="/image7.png"
                 alt="Profile"
-                className="h-12 w-12 rounded-full ml-1 md:mb-14"
+                className="h-12 w-12 rounded-full ml-1 mt-1 md:mb-14"
               />
         </div>
       </header>

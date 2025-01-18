@@ -14,18 +14,18 @@ const ShortlistedCV = () => {
   return (
     <div>
       <header className="flex md:flex-row justify-between md:items-center mb-5">
-        <h2 className="text-2xl font-bold mt-[50px]">Shortlisted CV's</h2>
+        <h2 className="text-2xl font-bold mt-[50px] ">Shortlisted CV's</h2>
         <div className="text-gray-600 flex items-center">
-          <div className="md:mb-14">
+          <div className="md:mb-16">
             <p className="font-semibold text-lg"> Hi, Username </p>
-            <p className="text-blue-500 font-semibold text-sm ml-2">
+            <p className="text-blue-500 font-semibold text-sm ml-1">
               Credits Left: 300
             </p>
           </div>
           <img
             src="/image7.png"
             alt="Profile"
-            className="h-12 w-12 rounded-full ml-1 md:mb-14"
+            className="h-12 w-12 rounded-full ml-1 mt-1 md:mb-16"
           />
         </div>
       </header>

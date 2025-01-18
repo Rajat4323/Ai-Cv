@@ -3,10 +3,9 @@
 ## Description
 AI-CV is a responsive web application built using ReactJS and Tailwind CSS, designed to streamline the process of managing shortlisted CVs. The application provides a visually appealing and intuitive interface for recruiters to view, organize, and download candidate profiles efficiently.
 
----
 
-## Live Demo
-✨ [Check out the AI-CV Live Site]()
+### Live Demo
+✨ [Check out the AI-CV Live Site](https://ai-cv-rajat4323s-projects.vercel.app/)
 
 ---
 
@@ -36,7 +35,7 @@ Follow these steps to set up the project on your local machine:
    Open your terminal and clone the repository:
 
    ```bash
-   git clone https://github.com/Rajat4323/Ai-cv.git
+   git clone https://github.com/Rajat4323/Ai-Cv.git
 
    ```
 
